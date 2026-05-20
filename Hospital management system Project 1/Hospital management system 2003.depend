@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1778695662 source:c:\users\omari\documents\programming\hospital management system 2003\database.cpp
+	"Database.h"
+
+1778695662 c:\users\omari\documents\programming\hospital management system 2003\database.h
+	<mysql.h>
+	<string>
+	<vector>
+	"Patient.h"
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\mysql.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"field_types.h"
+	"my_list.h"
+	"mysql_com.h"
+	"mysql/client_plugin.h"
+	"mysql_version.h"
+	"mysql_time.h"
+	"errmsg.h"
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\field_types.h
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\my_list.h
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\mysql_com.h
+	<stdbool.h>
+	<stdint.h>
+	"my_command.h"
+	"my_compress.h"
+	"my_io.h"
+	"mysql/components/services/bits/my_io_bits.h"
+	<stdbool.h>
+	"mysql/udf_registration_types.h"
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\my_command.h
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\my_compress.h
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\mysql\udf_registration_types.h
+	<stdbool.h>
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1775578276 c:\program files\mysql\mysql server 8.0\include\mysql_version.h
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\mysql_time.h
+
+1775564836 c:\program files\mysql\mysql server 8.0\include\errmsg.h
+
+1779127431 c:\users\omari\documents\programming\hospital management system 2003\patient.h
+	"Person.h"
+	<fstream>
+
+1779118666 c:\users\omari\documents\programming\hospital management system 2003\person.h
+	<iostream>
+	<string>
+
+1778695662 source:c:\users\omari\documents\programming\hospital management system 2003\hospital.cpp
+	"Hospital.h"
+	<algorithm>
+
+1778695662 c:\users\omari\documents\programming\hospital management system 2003\hospital.h
+	<vector>
+	<queue>
+	<stack>
+	"Patient.h"
+
+1779118666 source:c:\users\omari\documents\programming\hospital management system 2003\main.cpp
+	"HospitalSystem.h"
+
+1779127431 source:c:\users\omari\documents\programming\hospital management system 2003\patient.cpp
+	"Patient.h"
+
+1779127431 source:c:\users\omari\documents\programming\hospital management system 2003\doctor.cpp
+	"Doctor.h"
+
+1779127431 c:\users\omari\documents\programming\hospital management system 2003\doctor.h
+	"Person.h"
+	<fstream>
+
+1779163402 c:\users\omari\documents\programming\hospital management system 2003\hospitalsystem.h
+	<vector>
+	<fstream>
+	<queue>
+	"Patient.h"
+	"Doctor.h"
+	"Appointment.h"
+	"Medicine.h"
+	"Bill.h"
+	"Room.h"
+
+1779118666 source:c:\users\omari\documents\programming\hospital management system 2003\person.cpp
+	"Person.h"
+
+1779162019 source:c:\users\omari\documents\programming\hospital management system 2003\hospitalsystem.cpp
+	"HospitalSystem.h"
+
+1779138990 source:c:\users\omari\documents\programming\hospital management system 2003\appointment.cpp
+	"Appointment.h"
+
+1779138990 c:\users\omari\documents\programming\hospital management system 2003\appointment.h
+	<iostream>
+	<string>
+	<fstream>
+
+1779142778 c:\users\omari\documents\programming\hospital management system 2003\medicine.h
+	<iostream>
+	<fstream>
+	<string>
+
+1779142778 source:c:\users\omari\documents\programming\hospital management system 2003\medicine.cpp
+	"Medicine.h"
+
+1779160682 source:c:\users\omari\documents\programming\hospital management system 2003\bill.cpp
+	"Bill.h"
+
+1779160682 c:\users\omari\documents\programming\hospital management system 2003\bill.h
+	<iostream>
+	<fstream>
+	<string>
+
+1779162269 c:\users\omari\documents\programming\hospital management system 2003\room.h
+	<iostream>
+	<fstream>
+	<string>
+
+1779162269 source:c:\users\omari\documents\programming\hospital management system 2003\room.cpp
+	"Room.h"
+
